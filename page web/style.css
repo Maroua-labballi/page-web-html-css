@@ -26,7 +26,7 @@ a{
     word-spacing:30px ;
 }
 
-.buttonlang{
+select{
     font-size: 16px;
     border: 1px solid ;
     border-radius: .5em;
@@ -35,10 +35,8 @@ a{
     background-color: transparent;
     font-family: "Montserrat",sans-serif;
     appearance: none;
-} 
-
-select{
     background: url("images/Icon\ material-language.svg") 96% / 20% no-repeat transparent;
+    padding-left: 20px;
 }
  
 /* -------------------------------------------------1er partie----------------------------------  */
